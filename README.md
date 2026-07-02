@@ -8,13 +8,13 @@ This repository contains MATLAB scripts for compensator design, take-home quizze
 ```
 Dynamic-Electronic-Systems/
 ├── Quiz/              # Take-home Quizzes
-├── RE_Supplementary Materials/             # Supplementary materials about Laplace Transform
-├── lag.m             # Design a lag compensator    
+├── RE_Supplementary Materials/                 # Supplementary materials about Laplace Transform
+├── lag.m              # Design a lag compensator    
 ├── lead.m             # Design a lead compensator  
-├── lead_bw.m                 # Design a lead compensator with bandwidth requirement
+├── lead_bw.m          # Design a lead compensator with bandwidth requirement
 ├── s_design.m
 ├── z_design.m
-├── Commonly Used Matlab Functions.docx             # Matlab functions used for control systems
+├── Commonly Used Matlab Functions.docx         # Matlab functions used for control systems
 └── Gain Calculation for Root Locus.xlsx
 ```
 
