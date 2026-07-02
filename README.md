@@ -8,7 +8,7 @@ This repository contains MATLAB scripts for compensator design, take-home quizze
 ```
 Dynamic-Electronic-Systems/
 ├── Quiz              # Take-home Quizzes
-├── RE_Supplementary Materials                 # Supplementary materials about Laplace Transform
+├── RE_ Supplementary Materials                 # Supplementary materials about Laplace Transform
 ├── lag.m              # Design a lag compensator    
 ├── lead.m             # Design a lead compensator  
 ├── lead_bw.m          # Design a lead compensator with bandwidth requirement
