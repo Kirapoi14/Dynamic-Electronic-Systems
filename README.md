@@ -7,6 +7,7 @@ This repository contains MATLAB scripts for compensator design, take-home quizze
 
 ```
 Dynamic-Electronic-Systems/
+├── Figures            # Displayed figures from documents
 ├── Quiz               # Take-home quizzes
 ├── RE_ Supplementary Materials                 # Supplementary materials about Laplace Transform
 ├── lag.m              # Design a lag compensator    
