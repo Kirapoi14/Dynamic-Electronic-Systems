@@ -38,7 +38,10 @@ Dynamic-Electronic-Systems/
 
 ### Root locus techniques
 1. You should understand the root locus plot and choose a zero to design a lead compensator.
-2. Suggestion: Please choose the timing for A/D conversion as the case may be. In general, choose "s_design.m" for a short sampling period to design the continuous compensator first, then convert it to a discrete equivalent; vice versa.
+
+#### Suggestion
+1. You can use "Gain Calculation for Root Locus.xlsx" to calculate the sum of angles rapidly.
+2. Please choose the timing for A/D conversion as the case may be. In general, choose "s_design.m" for a short sampling period to design the continuous compensator first, then convert it to a discrete equivalent; vice versa.
 <img src="Figures/root_locus.jpg" />
 <p align="center">
     Sample of root locus
